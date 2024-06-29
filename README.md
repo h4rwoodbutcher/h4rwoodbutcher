@@ -1,3 +1,3 @@
-- howdy, i’m jude, but i go by duncan or apollo too
+- howdy, i’m jude! i also go by duncan or apollo.
 - currently attempting to learn how to code. admittedly, poorly
 - <a href="https://linktr.ee/22pops">find me elsewhere</a>
