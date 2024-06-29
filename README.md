@@ -1,3 +1,3 @@
-- howdy, i’m jude
-- currently attempting to learn python
+- howdy, i’m jude, but i go by duncan or apollo too
+- currently attempting to learn how to code. admittedly, poorly
 - <a href="https://linktr.ee/22pops">find me elsewhere</a>
